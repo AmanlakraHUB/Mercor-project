@@ -4,7 +4,6 @@ const FrameComponent = () => {
   return (
     <div className="rectangle-parent">
       <div className="frame-child" />
-      <img className="union-icon" alt="" src="/union.svg" />
       <div className="frame-parent">
         <div className="vuesaxoutlineprofile-2user-parent">
           <img
